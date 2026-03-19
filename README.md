@@ -177,6 +177,9 @@ We’re tackling a real problem with a straightforward solution. Not overcomplic
 
 ---
 
+##  Use Case Diagram
+[UML Diagram] (uml zomato-safety-ai.png)
+
 ## GitHub link  
 (add here)
 
