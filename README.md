@@ -183,5 +183,4 @@ We’re tackling a real problem with a straightforward solution. Not overcomplic
 ## GitHub link  
 (add here)
 
-## Video link  
-(add here)
+
