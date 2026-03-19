@@ -181,6 +181,6 @@ We’re tackling a real problem with a straightforward solution. Not overcomplic
 [UML Diagram] (uml zomato-safety-ai.png)
 
 ## GitHub link  
-(add here)
+https://github.com/Adityaklu999/zomato-safety-ai
 
 
