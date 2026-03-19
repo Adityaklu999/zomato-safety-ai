@@ -183,4 +183,7 @@ We’re tackling a real problem with a straightforward solution. Not overcomplic
 ## GitHub link  
 https://github.com/Adityaklu999/zomato-safety-ai
 
+##  Video link
+https://drive.google.com/file/d/1OrC9xeehYxjA5PvGZxnJqduj7dmrZowe/view?usp=sharing
+
 
